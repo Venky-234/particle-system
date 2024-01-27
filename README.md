@@ -1,5 +1,4 @@
 
-https://github.com/Venky-234/particle-system/assets/77890305/88abcf4f-0cbc-47e1-85fc-32e4b5838fd5
 # particle-system
 i think i made a particle system ?
 
